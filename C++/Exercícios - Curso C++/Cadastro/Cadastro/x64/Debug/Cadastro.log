@@ -1,0 +1,3 @@
+﻿  Cadastro.cpp
+C:\Users\melll\Desktop\Programação\Projetos\Cadastro\Cadastro\Cadastro.cpp(10,7): warning C4101: 'lastname': variável local não referenciada
+  Cadastro.vcxproj -> C:\Users\melll\Desktop\Programação\Projetos\Cadastro\x64\Debug\Cadastro.exe
