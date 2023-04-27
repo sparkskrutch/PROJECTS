@@ -1,0 +1,98 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+    Color: #615d53;
+}
+
+.background_site {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container_calculator {
+    width: 380px;
+    height: 460px;
+    background-color: #252525;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.top-buttons {
+    width: 380px;
+    height: 38px;
+}
+
+.display_historic {
+    width: 380px;
+    height: 100px;
+    background-color: #585347;
+    margin-bottom: 5px;
+}
+
+#display_insert {
+    width: 370px;
+    height: 53px;
+    padding: 0;
+    padding-right: 10px;
+    border: 0;
+    background-color: #34322E;
+    font-size: 35px;
+    text-align: right;
+    color: white;
+}
+
+.conteiner_keys_1 {
+    width: 340px;
+    height: 132px;
+    /* background-color: aqua; */
+    margin-top: 20px;
+}
+
+.buttons_function {
+    padding: 0;
+    margin: 2px;
+    font-size: 20px;
+    border: none;
+    border-radius: 3px;
+    width: 70px;
+    height: 40px;
+    color: white;
+    background-color: #34322E;
+}
+
+.button_color {
+    background-color: #615d53;
+}
+
+.buttons {
+    display: flex;
+}
+
+.buttons_2 {
+    display: flex;
+}
+
+.conteiner_keys_2_button_part_2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.conteiner_keys_2 {
+    width: 270px;
+    /* background-color: blueviolet; */
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    margin-left: 2px;
+    width: 66px;
+    height: 85px;
+    border: 0;
+    border-radius: 3px;
+    background-color: rgb(255, 123, 0);
+    color: white;
+}
